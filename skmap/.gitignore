@@ -1,0 +1,10 @@
+logs/*
+vendor
+!vendor/vendor.json
+.DS_Store
+/.idea
+/.vscode
+*.log
+config.yaml
+inventory.ini
+/main

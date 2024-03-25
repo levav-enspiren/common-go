@@ -1,0 +1,25 @@
+syntax = "proto3";
+package gormquery;
+option go_package = "./queryService";
+
+message OptionRequest {
+  bytes options = 1;
+}
+
+message QueryResponse {
+  bytes results = 1;
+  uint64 totalCount = 2;
+}
+
+message CreateResponse {
+  bytes result = 1;
+}
+
+message Empty {}
+
+service QueryService {
+  rpc Get(OptionRequest) returns (QueryResponse){};
+  rpc Create(OptionRequest) returns (CreateResponse){};
+  rpc Update(OptionRequest) returns (Empty){};
+  rpc Delete(OptionRequest) returns (Empty){};
+}
