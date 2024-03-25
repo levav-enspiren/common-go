@@ -1,6 +1,6 @@
 package helper
 
-import "gitea.greatics.net/common-go/skmap"
+import "github.com/levav-enspiren/common-go/skmap"
 
 func CastDataMap(data skmap.Map) skmap.Hash {
 	for field := range data {

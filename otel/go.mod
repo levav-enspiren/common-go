@@ -1,4 +1,4 @@
-module gitea.greatics.net/common-go/otel
+module github.com/levav-enspiren/common-go/otel
 
 go 1.18
 

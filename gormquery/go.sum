@@ -1,5 +1,5 @@
-gitea.greatics.net/common-go/skmap v1.3.1 h1:mkpSHQKfy8XXpU9KiQq5cAu5GP1D7FNfG5gXsX8CyL0=
-gitea.greatics.net/common-go/skmap v1.3.1/go.mod h1:PkBUWTyWMhp4HWZbLxdz6pawaX1Aq/XOVvpb1uV5pQE=
+github.com/levav-enspiren/common-go/skmap v1.3.1 h1:mkpSHQKfy8XXpU9KiQq5cAu5GP1D7FNfG5gXsX8CyL0=
+github.com/levav-enspiren/common-go/skmap v1.3.1/go.mod h1:PkBUWTyWMhp4HWZbLxdz6pawaX1Aq/XOVvpb1uV5pQE=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=
 github.com/golang/protobuf v1.5.2 h1:ROPKBNFfQgOUMifHyP+KYbvpjbdoFNs+aK7DXlji0Tw=
 github.com/golang/protobuf v1.5.2/go.mod h1:XVQd3VNwM+JqD3oG2Ue2ip4fOMUkwXdXDdiuN0vRsmY=

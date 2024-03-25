@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"gitea.greatics.net/common-go/skmap"
+	"github.com/levav-enspiren/common-go/skmap"
 )
 
 // ------------ helpers

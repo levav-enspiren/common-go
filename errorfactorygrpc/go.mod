@@ -1,9 +1,9 @@
-module gitea.greatics.net/common-go/errorfactorygrpc
+module github.com/levav-enspiren/common-go/errorfactorygrpc
 
 go 1.18
 
 require (
-	gitea.greatics.net/common-go/errorhandling v1.0.0
+	github.com/levav-enspiren/common-go/errorhandling v1.0.0
 	google.golang.org/grpc v1.51.0
 )
 

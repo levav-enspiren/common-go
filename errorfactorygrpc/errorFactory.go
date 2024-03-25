@@ -1,7 +1,7 @@
 package errorfactorygrpc
 
 import (
-	"gitea.greatics.net/common-go/errorhandling"
+	"github.com/levav-enspiren/common-go/errorhandling"
 
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"

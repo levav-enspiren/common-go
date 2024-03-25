@@ -1,3 +1,3 @@
-module gitea.greatics.net/common-go/skmap
+module github.com/levav-enspiren/common-go/skmap
 
 go 1.18

@@ -1,9 +1,9 @@
-module gitea.greatics.net/common-go/gormquery
+module github.com/levav-enspiren/common-go/gormquery
 
 go 1.18
 
 require (
-	gitea.greatics.net/common-go/skmap v1.3.1
+	github.com/levav-enspiren/common-go/skmap v1.3.1
 	google.golang.org/grpc v1.52.3
 	google.golang.org/protobuf v1.28.1
 	gorm.io/gorm v1.24.5

@@ -1,6 +1,6 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
-gitea.greatics.net/common-go/errorhandling v1.0.0 h1:szI4ljpn37FqD718FH+yssitUcRcBCcPn6ngkSLK7i8=
-gitea.greatics.net/common-go/errorhandling v1.0.0/go.mod h1:aVlKyK+vcSrLyIfSvOMFOwkEa6X53qw9dq+vSYJGGG4=
+github.com/levav-enspiren/common-go/errorhandling v1.0.0 h1:szI4ljpn37FqD718FH+yssitUcRcBCcPn6ngkSLK7i8=
+github.com/levav-enspiren/common-go/errorhandling v1.0.0/go.mod h1:aVlKyK+vcSrLyIfSvOMFOwkEa6X53qw9dq+vSYJGGG4=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=

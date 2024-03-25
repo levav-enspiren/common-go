@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	eh "gitea.greatics.net/common-go/errorhandling"
+	eh "github.com/levav-enspiren/common-go/errorhandling"
 
 	"github.com/gin-gonic/gin"
 	"google.golang.org/grpc/codes"

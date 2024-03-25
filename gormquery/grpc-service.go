@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"reflect"
 
-	"gitea.greatics.net/common-go/gormquery/helper"
-	"gitea.greatics.net/common-go/gormquery/queryService"
-	"gitea.greatics.net/common-go/skmap"
+	"github.com/levav-enspiren/common-go/gormquery/helper"
+	"github.com/levav-enspiren/common-go/gormquery/queryService"
+	"github.com/levav-enspiren/common-go/skmap"
 	"gorm.io/gorm"
 )
 

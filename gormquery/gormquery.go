@@ -6,7 +6,7 @@ import (
 	"log"
 	"strings"
 
-	"gitea.greatics.net/common-go/skmap"
+	"github.com/levav-enspiren/common-go/skmap"
 	"gorm.io/gorm"
 )
 

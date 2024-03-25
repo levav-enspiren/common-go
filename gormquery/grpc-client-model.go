@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"time"
 
-	"gitea.greatics.net/common-go/gormquery/queryService"
-	"gitea.greatics.net/common-go/skmap"
+	"github.com/levav-enspiren/common-go/gormquery/queryService"
+	"github.com/levav-enspiren/common-go/skmap"
 )
 
 type QueryServiceModel struct {

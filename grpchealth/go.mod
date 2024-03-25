@@ -1,4 +1,4 @@
-module gitea.greatics.net/common-go/grpchealth
+module github.com/levav-enspiren/common-go/grpchealth
 
 go 1.18
 
